@@ -1,2 +1,2 @@
 # Calor.Sin.Limite
-Comunitu Chat
+Community Chat
